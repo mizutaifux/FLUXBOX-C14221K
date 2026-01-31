@@ -1,0 +1,12 @@
+! The following line will prevent styles from setting the background.
+! background: none
+
+############################################################## FONTS ##########
+menu.title.font:                       QuicksandMedium-8:bold
+menu.frame.font:                       QuicksandMedium-8
+toolbar.clock.font:                    Andale mono-8 #Quicksand-10:bold #Crixus Laser-10
+toolbar.workspace.font:                FreeSans-16
+toolbar.iconbar.focused.font:          QuicksandMedium-8:bold
+toolbar.iconbar.unfocused.font:        QuicksandMedium-8
+window.font:                           QuicksandMedium-8:bold
+*.font:								   QuicksandMedium-8:bold

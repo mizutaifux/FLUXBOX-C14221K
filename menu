@@ -1,0 +1,3 @@
+[begin] (Menu)
+[include] (~/.fluxbox/custom-menu)  #(/etc/X11/fluxbox/fluxbox-menu)
+[end]
