@@ -12,3 +12,8 @@
 **Other**: Sakura(terminal), Tmux, VIM (editor), GpicView (Image viewer), System Tray (Steam, Fluxbox VWM)
 
 *Nothing special more usual.*
+
+
+## Preview
+
+![Preview](2025-12-14-093815_1920x1080_scrot.png)
